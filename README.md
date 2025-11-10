@@ -53,7 +53,7 @@ Al abrir un video, la app detecta automáticamente el enlace y lo reproduce de m
 ## 📸 Captura de pantalla
 
 <p align="center">
-  <img width="335" height="689" alt="Image" src="https://github.com/user-attachments/assets/e602b510-2a21-460b-a77f-44311e134998" />
+  <img width="167.5" height="344.5" alt="Image" src="https://github.com/user-attachments/assets/e602b510-2a21-460b-a77f-44311e134998" />
 </p>
 
 ---
