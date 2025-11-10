@@ -1,7 +1,7 @@
 # 🎬 VacaTube 🐮
 
 <p align="center">
-  <img src="./assets/vacatube_logo.png" alt="Logo de VacaTube" width="180" />
+  <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/d8d46ce1-4a18-4516-8a6e-4f7771450ddb" />
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ Al abrir un video, la app detecta automáticamente el enlace y lo reproduce de m
 ## 📸 Captura de pantalla
 
 <p align="center">
-  <img src="./assets/screenshot.png" alt="Captura de pantalla de VacaTube" width="320" />
+  <img width="335" height="689" alt="Image" src="https://github.com/user-attachments/assets/e602b510-2a21-460b-a77f-44311e134998" />
 </p>
 
 ---
